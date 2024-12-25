@@ -9,16 +9,20 @@ public class Main {
     /**
      * Getting string input
      * 
-     * @param String prompt
+     * @Java Tutorial
      * @return string
      * @author Brownhill U
-     * @since Nov 30
+     * @since Dec 25
      */
 
      
      //This is a datatype  
     DataTypes dt = new DataTypes();
     dt.datatype();
+    dt.variables();
+    // dt.usingScanner();
+    dt.operators();
+    dt.jOptionPane();
 
     }
 }
