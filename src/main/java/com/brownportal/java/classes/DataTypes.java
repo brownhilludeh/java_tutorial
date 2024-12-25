@@ -35,6 +35,7 @@ public class DataTypes {
         System.out.println(is_active);
         System.out.println(z);
         System.out.println(symbol);
+        System.out.println("Hello " + name);
 
     }
 }
